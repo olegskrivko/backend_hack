@@ -110,7 +110,19 @@ user_data = {
           "industry_sector": "Multi-sector"
         }
       ],
-      "bonds": [],
+      "bonds": [
+          {
+            "issuer": "US Treasury",
+            "bond_type": "10-Year Treasury Note",
+            "quantity": 1,
+            "purchase_price": 450,
+            "current_price": 500,
+            "purchase_date": "2021-12-15",
+            "asset_type": "Bond",
+            "region": "United States",
+            "industry_sector": "Government Bonds"
+          }
+      ],
       "total_investment": 100000,
       "current_value": 110000,
       "profit_loss": 10000
