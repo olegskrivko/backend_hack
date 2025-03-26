@@ -16,46 +16,46 @@ user_data = {
         {
           "symbol": "EGR1T.TL",
           "company": "ENEFIT GREEN",
-          "quantity": 10,
+          "quantity": 100,
           "purchase_price": 50,
           "current_price": 55,
           "purchase_date": "2021-01-15",
           "asset_type": "Stock",
           "region": "Estonia",
-          "industry_sector": "Utilities - Renewable Energy"
+          "industry_sector": "Industrial"
         },
         {
           "symbol": "KALVE.RI",
           "company": "KALVE COFFEE",
-          "quantity": 8,
+          "quantity": 80,
           "purchase_price": 30,
           "current_price": 32,
           "purchase_date": "2022-05-12",
           "asset_type": "Stock",
           "region": "Latvia",
-          "industry_sector": "Consumer Defensive - Specialty Coffee"
+          "industry_sector": "Consumer Discretionary"
         },
         {
           "symbol": "NVDA.O",
           "company": "NVIDIA",
-          "quantity": 50,
+          "quantity": 10,
           "purchase_price": 400,
           "current_price": 420,
           "purchase_date": "2020-06-20",
           "asset_type": "Stock",
           "region": "United States",
-          "industry_sector": "Technology - Semiconductors"
+          "industry_sector": "Technology"
         },
         {
           "symbol": "TSLA.O",
           "company": "TESLA",
-          "quantity": 80,
+          "quantity": 8,
           "purchase_price": 250,
           "current_price": 300,
           "purchase_date": "2021-03-10",
           "asset_type": "Stock",
           "region": "United States",
-          "industry_sector": "Consumer Cyclical - Electric Vehicles"
+          "industry_sector": "Consumer Discretionary"
         },
         {
           "symbol": "SWRTECC",
@@ -65,8 +65,8 @@ user_data = {
           "current_price": 210,
           "purchase_date": "2021-07-05",
           "asset_type": "Stock",
-          "region": "United States",
-          "industry_sector": "Technology - IT Sector"
+          "region": "Global",
+          "industry_sector": "Technology"
         },
         {
           "symbol": "SWRAGLC",
@@ -77,7 +77,7 @@ user_data = {
           "purchase_date": "2020-09-30",
           "asset_type": "Stock",
           "region": "Global",
-          "industry_sector": "Multi-sector - Global Large-Cap Blend Equity"
+          "industry_sector": "Multi-sector"
         },
         {
           "symbol": "SWBRUSAC",
@@ -88,7 +88,7 @@ user_data = {
           "purchase_date": "2022-02-15",
           "asset_type": "Stock",
           "region": "United States",
-          "industry_sector": "Multi-sector - US Large-Cap Blend Equity"
+          "industry_sector": "Multi-sector"
         },
         {
           "symbol": "SXR8.DE",
@@ -99,7 +99,7 @@ user_data = {
           "purchase_date": "2021-08-25",
           "asset_type": "Stock",
           "region": "United States",
-          "industry_sector": "Multi-sector - S&P 500 Index"
+          "industry_sector": "Multi-sector"
         }
       ],
       "cash": {
