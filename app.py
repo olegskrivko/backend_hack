@@ -20,4 +20,4 @@ def home():
 # Ensure the app listens on the right port for deployment
 if __name__ == '__main__':
     # Use the environment variable PORT, or fallback to 5000 in local development
-    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)), debug=True)
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)), debug=True)
