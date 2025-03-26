@@ -64,7 +64,7 @@ user_data = {
           "purchase_price": 200,
           "current_price": 210,
           "purchase_date": "2021-07-05",
-          "asset_type": "Stock",
+          "asset_type": "Funds",
           "region": "Global",
           "industry_sector": "Technology"
         },
@@ -75,7 +75,7 @@ user_data = {
           "purchase_price": 150,
           "current_price": 160,
           "purchase_date": "2020-09-30",
-          "asset_type": "Stock",
+          "asset_type": "Funds",
           "region": "Global",
           "industry_sector": "Multi-sector"
         },
@@ -86,7 +86,7 @@ user_data = {
           "purchase_price": 130,
           "current_price": 140,
           "purchase_date": "2022-02-15",
-          "asset_type": "Stock",
+          "asset_type": "Funds",
           "region": "United States",
           "industry_sector": "Multi-sector"
         },
@@ -97,7 +97,7 @@ user_data = {
           "purchase_price": 250,
           "current_price": 270,
           "purchase_date": "2021-08-25",
-          "asset_type": "Stock",
+          "asset_type": "Funds",
           "region": "United States",
           "industry_sector": "Multi-sector"
         }
@@ -108,8 +108,8 @@ user_data = {
         "asset_type": "Cash",
         "region": "Not region-specific"
       },
-      "funds": [],
-      "bonds": [],
+      "funds": 3000,
+      "bonds": 10,
       "total_investment": 100000,
       "current_value": 110000,
       "profit_loss": 10000
