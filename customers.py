@@ -108,8 +108,8 @@ user_data = {
         "asset_type": "Cash",
         "region": "Not region-specific"
       },
-      "funds": 3000,
-      "bonds": 10,
+      "funds": [],
+      "bonds": [10, 20],
       "total_investment": 100000,
       "current_value": 110000,
       "profit_loss": 10000
