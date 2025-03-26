@@ -56,8 +56,16 @@ user_data = {
           "asset_type": "Stock",
           "region": "United States",
           "industry_sector": "Consumer Discretionary"
-        },
-        {
+        }
+      ],
+      "cash": {
+        "amount": 10000,
+        "currency": "USD",
+        "asset_type": "Cash",
+        "region": "Not region-specific"
+      },
+      "funds": [
+          {
           "symbol": "SWRTECC",
           "company": "SWEDBANK ROBUR TECHNOLOGY",
           "quantity": 20,
@@ -102,14 +110,7 @@ user_data = {
           "industry_sector": "Multi-sector"
         }
       ],
-      "cash": {
-        "amount": 10000,
-        "currency": "USD",
-        "asset_type": "Cash",
-        "region": "Not region-specific"
-      },
-      "funds": [],
-      "bonds": [10, 20],
+      "bonds": [],
       "total_investment": 100000,
       "current_value": 110000,
       "profit_loss": 10000
