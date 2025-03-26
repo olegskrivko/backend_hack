@@ -10,6 +10,7 @@ exceptiongroup==1.2.2
 flask==3.0.3
 Flask-Cors==5.0.0
 frozendict==2.4.6
+gunicorn==23.0.0
 h11==0.14.0
 httpcore==1.0.7
 httpx==0.28.1
@@ -22,6 +23,7 @@ MarkupSafe==2.1.5
 multitasking==0.0.11
 numpy==1.24.4
 openai==1.68.2
+packaging==24.2
 pandas==2.0.3
 peewee==3.17.9
 platformdirs==4.3.6
